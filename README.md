@@ -5,4 +5,4 @@ You can view the [training notebook](https://github.com/AbdulRahmanSilmy/Assembl
 
 ## Example if the ML classification task
 
-<img src="https://github.com/AbdulRahmanSilmy/Assembly-line-Counting-Station/blob/main/example_img.png" width="300" height="600" />
+<img src="https://github.com/AbdulRahmanSilmy/Assembly-line-Counting-Station/blob/main/example_img.jpg" width="300" height="900" />
