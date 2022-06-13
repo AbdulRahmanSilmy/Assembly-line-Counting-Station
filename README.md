@@ -5,4 +5,4 @@ Note the work presented here is only the baseline model needed to count the numb
 
 ## Examples of the ML classification task
 
-<img src="https://github.com/AbdulRahmanSilmy/Assembly-line-Counting-Station/blob/main/example_img.jpg" width="300" height="900" />
+<img src="https://github.com/AbdulRahmanSilmy/Assembly-line-Counting-Station/blob/main/example_img.jpg" width="150" height="450" />
